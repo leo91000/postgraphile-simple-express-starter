@@ -1,4 +1,15 @@
-# Conventions used in database schema:
+# Simple postgraphile express starter
+
+Very basic and clean postgraphile starter using typescript, graphile-migrate and postgraphile.
+
+To start just edit .env file and run :
+
+```bash
+npm install
+npm run watchll
+```
+
+# Recommanded conventions for database schema:
 
 ### Placeholders
 
